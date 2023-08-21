@@ -1,0 +1,39 @@
+{
+    "guild_id": 123,
+
+    "path_main_db": "main.db",
+    "path_log_db": "log.db",
+
+    "roles": {
+        "gender_male": 123,
+        "gender_female": 123,
+
+        "marry_role": 123,
+
+        "personal_roles_sort": 123,
+        "personal_rooms_sort": 123
+    },
+
+    "prices": {
+        "marry_create_standart": 1500,
+        "marry_create_nonstandart": 3000,
+
+        "change_name_love_room": 66,
+
+        "role_create": 3000,
+        "role_change_name": 1000,
+        "role_change_color": 500,
+
+        "theme_default_profile": 20000,
+        "theme_default_lprofile": 10000
+    },
+
+    "channels": {
+        "entry_love_room": 123,
+        "love_category": 123
+    },
+
+    "logs": {
+        "join_leave_channel": 0
+    }
+}
