@@ -62,4 +62,4 @@ bot.add_cog(TestCommand(bot))
 
 load_dotenv()
 
-bot.run("MTEyNTMzNTA4MzYwODQ0OTAzNQ.GnveWg.A9F7HcZ4jsuzIjD1KH6Eo2R8IaW8B4JGTjcStw")
+bot.run("ТОКЕН")
